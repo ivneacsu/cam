@@ -1,4 +1,0 @@
-http://www.davesmotleyprojects.com/raspi/raspi-data-logger/raspi-data-logger.html
-
-original file: datalogger.py
-myfile:        usblogger3.py ## rested python3
